@@ -1,0 +1,17 @@
+Pessoal,
+
+Corrigi vários dos trabalhos de vocês sobre vetores. No entanto, esta tarefa é muito lenta e demanda muito tempo. Desta forma, resolvi implementar todos estes exercícios e enviar para vocês conferirem e corrigirem suas implementações.
+
+Observe que não implementei exatamente como exigido pelos exercícios. Fiz uma implementação aproveitando os recursos da orientação e objetos. Principalmente em relação ao reaproveitamento de código.
+
+Sendo assim, implementei uma Super classe "ProcessualN201Gilmar" que concentra todos os objetos e métodos utilizados pelas classes que representam cada uma das questões. As classes de cada questão são subclasses desta super classe. A palavra extends na definição da classe confere-lhe o carater de herdeira da super classe. Tudo o que está implementado na super classe é herdado pelas subclasses.
+
+Entenda que na implementação de cada uma das subclasses, os métodos chamados da superclasse, nos exercícios de vocês, deve constar este método na sua classe.
+
+Outra observação é que criei uma classe "Mensagem" para centralizar todas as mensagens num único local.
+
+Estude esta implementação, compare com a sua, corrija se julgar necessário.
+
+Qualquer dúvida, esclareça comigo na próxima aula.
+
+Um abraço.
