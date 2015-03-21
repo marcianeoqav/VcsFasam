@@ -15,6 +15,9 @@ public class Exer02 {
 		System.out.println("\n");		
 		mat.imprimirDiagonalPrincipal(Matriz);
 		
+		/* ---- */
+		mat.imprimirDiagonalPrincipal(Matriz);
+		
 	}
 	
 	public void leitura(int matriz[][]){
