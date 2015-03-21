@@ -19,7 +19,7 @@ public class QUESTAO01 {
     public void preencher (int m[][]){
     	for (int i=0; i<10; i++){
 			for (int j=0; j<10; j++){
-				m[i][j] = Integer.parseInt(JOptionPane.showInputDialog("Numero"+ i +"Colunas"+j));
+				m[i][j] = Integer.parseInt(JOptionPane.showInputDialog("CrazyNumber"+ i +"Colunas"+j));
 			
 				
 			}
