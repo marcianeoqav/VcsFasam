@@ -7,7 +7,7 @@
  * 	pilha, feita no exercício 1.
  * 
  * 	Implemente as operações descritas nos subitens a e b da questão 5 e 
- * 	imprima o resultado de cada uma dessas sequências de entradas e saídas.*/
+ * 	imprima o resultado de cada uma dessas sequências de entradas e saídas.* FUDEU/
 
 package listaExerciciosN203FilasPilhas;
 
