@@ -3,7 +3,6 @@ package filaPilha.duvida.jean;
 import java.util.Scanner;
 
 public class Exe15 {
-
 	static Scanner in = new Scanner(System.in);
 
 	public static void main(String[] args) {
