@@ -17,7 +17,6 @@ public class Exe14 {
 		imprimirIntercessaoFilaPilha(filaN, pilhaN);
 		imprimirElementosSomenteNaFila(filaN, pilhaN);
 		imprimirElementosSomenteNaPilha(filaN, pilhaN);
-		imprimirElementosSomenteNaPilha(filaN, pilhaN);
 	}
 
 	public static void preencherFila(Fila f){
@@ -51,6 +50,7 @@ public class Exe14 {
 	}
 	
 	public static void imprimirElementosSomenteNaFila(Fila f, Pilha p) {
+		t = f.getItem().length;
 		t = f.getItem().length;
 		System.out.println("\nNomes presentes somente na fila:");
 		for(int i = 0; i < t; i++){
