@@ -17,6 +17,7 @@ public class Exe14 {
 		imprimirIntercessaoFilaPilha(filaN, pilhaN);
 		imprimirElementosSomenteNaFila(filaN, pilhaN);
 		imprimirElementosSomenteNaPilha(filaN, pilhaN);
+		imprimirElementosSomenteNaPilha(filaN, pilhaN);
 	}
 
 	public static void preencherFila(Fila f){
