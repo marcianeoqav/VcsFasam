@@ -46,6 +46,10 @@ public class Matriz02DiagonalPrincipal {
 		}
 
 	
+	public void imp(){
+		
+	}
+	
 	public void imprimirDiagonalPrincipal(int matriz[][]){
 		t = matriz.length;
 		System.out.println("\nDiagonal Principal");
