@@ -20,6 +20,8 @@ public class Exercicio01 {
 			for(int j = 0; j < 10; j++){
 				System.out.println("Digite o valor da Linha:" +i+ "Coluna:" +j+ ":");
 				Matriz[i][j] = leia.nextInt();
+				/* Adicionado */
+				Matriz[i][j] = leia.nextInt();
 
 			}
 		}
